@@ -21,7 +21,7 @@ This project analyzes retail and warehouse sales data stored in a SQLite databas
 ### Installation Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/.git
+   git clone https://github.com/0499-sys/retail-analysis.git
    cd 10EQS
 
 2. Install dependencies:
